@@ -1,0 +1,9 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+@font-face {
+  font-family: 'Helvetica';
+  src: url("/sites/msg/fonts/helveticaFont/helvetica-webfont.eot");
+  src: url("/sites/msg/fonts/helveticaFont/helvetica-webfont.eot") format("embedded-opentype"), url("/sites/msg/fonts/helveticaFont/helvetica-webfont.woff") format("woff"), url("/sites/msg/fonts/helveticaFont/helvetica-webfont.ttf") format("truetype"), url("/sites/msg/fonts/helveticaFont/helvetica-webfont.svg#helvetica-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal; }
